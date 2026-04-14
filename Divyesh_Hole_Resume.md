@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | Python | FastAPI | React | AI/LLM
 
-[your.email@example.com] | [LinkedIn Profile] | [GitHub Profile] | [Location]
+[holedivyesh@gmail.com] | [www.linkedin.com/in/divyesh-hole-169498227] | [Mumbai]
 
 ---
 
@@ -56,10 +56,10 @@ Full-Stack Developer with 3+ years of experience building scalable, multi-tenant
 - Developed interactive UI components for node configuration, edge connections, and real-time workflow validation
 - Integrated the frontend with backend APIs to persist, retrieve, and execute user-defined workflows
 
-**Tech:** React, JavaScript, REST APIs
+**Tech:** React, Typescript, REST APIs
 
 ---
 
 ## Education
 
-[Your Degree] — [University Name], [Year]
+BE Electronics — Mumbai Univesity, 2022
